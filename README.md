@@ -3,7 +3,7 @@
 
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=Hanseul's%20Github&fontSize=40&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=&fontSize=40&animation=fadeIn"/>
 </p>
 
 
